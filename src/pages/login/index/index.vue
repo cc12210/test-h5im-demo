@@ -75,9 +75,9 @@
       </div>
     </van-form>
 
-    <van-button :loading="loading" @click="autoLogin" block type="primary" native-type="submit">
+    <!-- <van-button :loading="loading" @click="autoLogin" block type="primary" native-type="submit">
       账号密码直接登录
-    </van-button>
+    </van-button> -->
     
 
     <div class="mb-[32px] flex w-[300px] flex-col items-center text-xs">
